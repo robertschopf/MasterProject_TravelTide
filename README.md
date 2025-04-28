@@ -63,7 +63,6 @@ The approach involved analyzing customer data to identify customer segments and 
 * Validation may involve statistical testing, cross-validation, or external data comparison.
 
 
-
 ---
 
 ## 🔍 Insights
