@@ -36,7 +36,7 @@ The approach involved analyzing customer data to identify customer segments and 
     * Responsiveness to marketing campaigns
 
 **Step 3: Analysis of Perk Preferences**
-* Analysis determined the appeal of proposed perks to different customer segments.
+* Analysis determined the likely appeal of proposed perks to different customer segments.
 * Proposed perks:
     * Free hotel meal
     * Free checked bag
@@ -59,8 +59,9 @@ The approach involved analyzing customer data to identify customer segments and 
 * Goal: Maximize the likelihood of perk appeal and program enrollment.
 
 **Step 5: Validation of Results**
-* Analysis results were validated for accuracy and reliability.
+* Analysis results are validated for accuracy and reliability.
 * Validation may involve statistical testing, cross-validation, or external data comparison.
+
 
 ---
 
