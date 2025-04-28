@@ -15,7 +15,7 @@ The approach involved analyzing customer data to identify customer segments and 
 
 ---
 
-## 📊 Project Steps**
+## 📊 Project Steps
 
 **Step 1: Data Exploration and Preparation**
 * Customer data was examined, cleaned, and prepared.
