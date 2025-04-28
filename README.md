@@ -62,6 +62,7 @@ The approach involved analyzing customer data to identify customer segments and 
 * Analysis results are validated for accuracy and reliability.
 * Validation may involve statistical testing, cross-validation, or external data comparison.
 
+<img width="1706" alt="Demographic_Insights_Screen" src="https://github.com/user-attachments/assets/1880894c-6680-485b-a992-de16870a5ad9" />
 
 ---
 
