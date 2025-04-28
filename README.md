@@ -97,6 +97,7 @@ The approach involved analyzing customer data to identify customer segments and 
 
 ## 🔗 Links
 * Link to Tableau Public:   [view Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-TravelTide-RS/TravelTideRewardsProgramLeveragingCustomerDataforPersonalizedPerks)
+* Link to Tableau Public Presentation Story: [view Story Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-Presentation-TravelTide-RS/TravelTidepresentation)
 * Link to Google Colabs Notebook:   [view GoogleColab Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLIN_jfxlfwkL?usp=sharing)
 
 ---
